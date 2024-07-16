@@ -15,7 +15,7 @@ A rudimentary headless CMS with extremely basic CRUD functionality, similar to a
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/KingshukBansal/Vahan.git
+    https://github.com/YeshwanthValishetti20/Vahan.git
     ```
 
 2. **Install Dependencies:**
